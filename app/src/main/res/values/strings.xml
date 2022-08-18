@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SoupBowl</string>
+    <string name="soup_bowl_description">Loreum Ipsum dolor sit amet, consectetur adipisicing elit,
+        sed do eiusmod tempor incididunt ut laboreet dolore magna aliqua. Quis nostrud exercitation
+        gravida
+    </string>
+    <string name="lorem_ipsum">Lorem Ipsum</string>
+</resources>
